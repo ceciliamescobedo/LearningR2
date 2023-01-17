@@ -1,3 +1,4 @@
+forcing a conflict part 2 but now in github
 Cecilia Martinez Escobedo
 Learning R Course 2023
 This is a test of github pull
